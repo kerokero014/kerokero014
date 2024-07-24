@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Jacob Rojas</h1>
-<h3 align="center">A passionate full stack developer from Mexico City.</h3>
+<h3 align="center">A passionate full stack developer from Mexico City living in idaho🥔.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerokero014&label=Profile%20views&color=0a8bdb&style=plastic" alt="kerokero014" /> </p>
 
