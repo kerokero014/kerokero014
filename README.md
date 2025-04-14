@@ -61,4 +61,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerokero014&show_icons=true&theme=tokyonight&bg_color=ffffff&locale=en" alt="kerokero014" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerokero014&" alt="kerokero014" /></p>
