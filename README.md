@@ -50,34 +50,6 @@
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/kerokero014">
-  <img src="https://img.shields.io/badge/GitHub-kerokero014-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="mailto:jmndz5415@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=kerokero014&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=94a3b8&hide_border=true" 
-  height="180"
-/>
-</div>
-
----
-
 # ⚡ Currently Focused On
 
 ```ts
@@ -96,3 +68,31 @@ const jacob = {
     "Advanced TypeScript"
   ]
 };
+```
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=kerokero014&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=94a3b8&hide_border=true" 
+  height="180"
+/>
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/kerokero014">
+  <img src="https://img.shields.io/badge/GitHub-kerokero014-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:jmndz5415@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
