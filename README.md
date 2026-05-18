@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-jmndz5415%40gmail.com-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <img src="https://img.shields.io/badge/Location-Idaho-1c1917?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Idaho-274690?style=for-the-badge&logo=googlemaps&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Learning-MCP%20Servers%20with%20TS%2FNode.js-0f172a?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
@@ -26,7 +26,7 @@
 
 <p>
   <a href="https://reactjs.org/">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,vite,tailwind,sass,bootstrap,materialui,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,svelte,vite,tailwind,sass,bootstrap,materialui,html,css,js,ts" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 
 <p>
   <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,vscode,webpack" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,vscode,webpack,mysql" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@ const jacob = {
 <div align="center">
 
 <a href="https://github.com/kerokero014">
-  <img src="https://img.shields.io/badge/GitHub-kerokero014-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-kerokero014-903FCA?style=for-the-badge&logo=github" />
 </a>
 
 <a href="mailto:jmndz5415@gmail.com">
