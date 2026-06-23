@@ -34,7 +34,7 @@
 
 <p>
   <a href="https://nodejs.org/en/">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,cs,kotlin,graphql,fastapi" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,cs,kotlin,graphql,fastapi,nestjs" />
   </a>
 </p>
 
